@@ -1,6 +1,6 @@
 # Datascience Syllabus
 
-## Introduction
+# Introduction
 Datascience as a subject spans over various aspects of learning. However i have tried to narrow down and give a focused path or a curriculum for new learners.
 
 Very broadly i was able to classify the datascience learning into four broad categories
@@ -18,11 +18,11 @@ I have made several failed attempts at mastering some of the mathematics concept
 Since i'm from a programming background, i feel writing some bit of code inbetween learning mathematical concepts helps. This time i'm going to give it a hybrid approach where weekly couple of days i focus on mathematical concepts and couple of days are filled with programming tutorials and exercises. I'm hoping this might help me to stay put and finish the trainigs.
 
 
-## Maths behind the Datascience
+# 1. Maths behind the Datascience
 
 Below are the list of topics that you will need to cover to get a grasp on the mathematical concepts behind the datascience algorithms
 
-### Calculus
+## 1.1 Calculus
 ### Beginner level course
 Below are Khan-academy courses for beginners
 * [Pre-calculus](https://www.khanacademy.org/math/precalculus)
@@ -33,7 +33,7 @@ Below are Khan-academy courses for beginners
 ### Intermediate
 * [Coursera : Introduction to Calculus ](https://www.coursera.org/learn/introduction-to-calculus/home/welcome)
 
-### Linear Algebra
+## 1.2 Linear Algebra
 ### Beginner level course
 Below are Khan-academy courses for beginners. It introduces us to linear equations, logarithms, matrices,
 * [Algebra Basics](https://www.khanacademy.org/math/algebra-basics)
@@ -43,22 +43,44 @@ Below is a lectures videos from Gilbert Strang
 * [MIT: Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)
 
 
-### Statistics & Probability
+## 1.3 Statistics & Probability
+### Beginner level course
 Beginner course from Khan Academy which gives us a overview of Mean, Medium, standard deviations, Histograms
 * [Statistics & Probability](https://www.khanacademy.org/math/statistics-probability)
 
-###
+# 2. Programming and supported libraries
 
-
-## Programming and supported libraries
-### Learn Python
+## 2.1 Python Programming
 These ones are for starters for python. They take you through the basics of python and not really into Datascience.
 But if you are a newbie, i would prefer you play around with programming on python using below resources
 ### Beginner level course
-*[Kaggle-Python course](https://www.kaggle.com/learn/python)
-*[Google Developers - Python](https://developers.google.com/edu/python)
+* [Kaggle-Python course](https://www.kaggle.com/learn/python)
+* [Google Developers - Python](https://developers.google.com/edu/python)
 
 The below course will include lot more packages that are needed to do Datascience.
 ### Medium level course
-*[Datacamp - datascientist with python](https://www.datacamp.com/tracks/data-scientist-with-python#)
+* [Datacamp - datascientist with python](https://www.datacamp.com/tracks/data-scientist-with-python#)
 *
+
+## 2.2 Jupyter Notebook
+The below course will include lot more packages that are needed to do Datascience.
+
+### 2.3 Supporting Libraries
+The below course will include lot more packages that are needed to do Datascience.
+
+#### Pandas
+The below course will include lot more packages that are needed to do Datascience.
+#### Numpy
+The below course will include lot more packages that are needed to do Datascience.
+#### Sklearn
+The below course will include lot more packages that are needed to do Datascience.
+#### matplotlib
+The below course will include lot more packages that are needed to do Datascience.
+#### seaborn
+The below course will include lot more packages that are needed to do Datascience.
+#### plyplot
+
+
+
+
+
