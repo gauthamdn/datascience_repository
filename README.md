@@ -83,4 +83,16 @@ The below course will include lot more packages that are needed to do Datascienc
 
 
 
+## Some Interesting Links , Videos, Blogs 
+
+* [Kaggle - Datascience competitions](https://www.kaggle.com/)
+
+#### Info/Read
+* [Spurious correlations](https://www.tylervigen.com/spurious-correlations)
+
+#### Videos
+* [How to kill your grandmother with statistics](https://www.youtube.com/watch?v=iRpAHS5_hDk&feature=youtu.be)
+* [20 youtube channels for datascience in 2020 ](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5)
+
+
 
