@@ -23,12 +23,15 @@ Since i'm from a programming background, i feel writing some bit of code inbetwe
 Below are the list of topics that you will need to cover to get a grasp on the mathematical concepts behind the datascience algorithms
 
 ## 1.1 Calculus
+
 ### Beginner level course
+
 Below are Khan-academy courses for beginners
 * [Pre-calculus](https://www.khanacademy.org/math/precalculus)
 * [Differential calculus](https://www.khanacademy.org/math/differential-calculus)
 * [Integral calculus](https://www.khanacademy.org/math/integral-calculus)
 * [Mutlivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus)
+* [Data Science Math Skills - Coursera - Duke University](https://www.coursera.org/learn/datasciencemathskills?skipBrowseRedirect=true)
 
 ### Intermediate
 * [Coursera : Introduction to Calculus ](https://www.coursera.org/learn/introduction-to-calculus/home/welcome)
@@ -93,6 +96,4 @@ The below course will include lot more packages that are needed to do Datascienc
 #### Videos
 * [How to kill your grandmother with statistics](https://www.youtube.com/watch?v=iRpAHS5_hDk&feature=youtu.be)
 * [20 youtube channels for datascience in 2020 ](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5)
-
-
 
