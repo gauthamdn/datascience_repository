@@ -96,4 +96,7 @@ The below course will include lot more packages that are needed to do Datascienc
 #### Videos
 * [How to kill your grandmother with statistics](https://www.youtube.com/watch?v=iRpAHS5_hDk&feature=youtu.be)
 * [20 youtube channels for datascience in 2020 ](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5)
+* [25 youtube channels to follow ](https://towardsdatascience.com/top-20-youtube-channels-for-data-science-in-2020-2ef4fb0d3d5?source=extreme_sidebar---------2-16----------------------)
+* [Ultimate Datascience prerequisite learning list](https://towardsdatascience.com/the-ultimate-data-science-prerequisite-learning-list-348ce89805f9)
+* [Datascience tools 101](https://towardsdatascience.com/data-science-101-a-list-of-tools-to-increase-your-productivity-134f57b01922)
 
